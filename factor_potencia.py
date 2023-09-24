@@ -34,9 +34,6 @@ def factorPotenciaGenerador():
 
 
 
-def factorPotenciaFactura():
-    pass
-
 
 def factorPotenciaMotor():
 
